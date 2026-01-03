@@ -38,13 +38,13 @@ This project demonstrates all four pillars of Object-Oriented Programming:
 - **Polymorphism**  
   The `dashboard()` method is overridden in both `Student` and `Teacher` classes to provide role-specific behavior.
 
+## How to Run the Project
+1. Clone the repository
+2. Open the project in any Java-supported IDE (VS Code / IntelliJ / Eclipse)
+3. Compile and run the `StudentPortal.java` file
+4. Follow the on-screen instructions in the console to log in as a teacher or student
+
 ## Technologies Used
 - Java
 - VS Code
 - Command Line Interface (CLI)
-
-## How to Run the Project
-
-1. Compile the program:
-   ```bash
-   javac StudentPortal.java
